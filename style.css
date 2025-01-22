@@ -1,4 +1,6 @@
-span{
+em{
     color: blue;
 }
+.highlighted-text{
+    background-color: yellow;
 }
