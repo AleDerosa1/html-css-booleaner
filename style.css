@@ -3,6 +3,7 @@
     background-color:lightblue;
     padding: 30px 100px;
 }
+
 .main-container{
     padding: 30px 100px;
 }
@@ -10,9 +11,31 @@
 .img-header{
     width: 200px;
 }
+
 .blue-text{
     color: blue;
 }
+
 .highlight-text{
     background-color: yellow;
 }
+
+thead tr td{
+    background-color: aqua;
+    border: white solid 1px;
+    color: white;
+    font-weight: bold;
+}
+tbody tr:nth-child(odd){
+    background-color: lightgray;
+
+}
+.text-footer{
+    text-align: center;
+    color: white;
+}
+footer{
+    background-color: blue;
+    padding: 10px;
+}
+
