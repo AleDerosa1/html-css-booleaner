@@ -1,6 +1,18 @@
-em{
+.header-container{
+    background-image: url(img/pattern.png);
+    background-color:lightblue;
+    padding: 30px 100px;
+}
+.main-container{
+    padding: 30px 100px;
+}
+
+.img-header{
+    width: 200px;
+}
+.blue-text{
     color: blue;
 }
-span{
+.highlight-text{
     background-color: yellow;
 }
